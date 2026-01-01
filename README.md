@@ -42,4 +42,26 @@ It includes Inventory Control, Billing, Stock Updates, Sales History, Role-based
 | Others | Multer for image uploads |
 
 ---
+## For Installation Commands
+### Git Repo Clone: 
+gh repo clone munirsons/Local-shop-management-system
+## For enter the client folder:
+"cd client" 
+
+## For install the dependencies of the frontend/client:
+"npm install" 
+
+## After installing the dependencies of the frontend/client run
+
+"npm start" OR Local-shop-management-system" 
+
+## For enter the client folder:
+"cd server" 
+
+## For install the dependencies of the backend/server:
+"npm install" 
+
+## After installing the dependencies of the backend/server run
+
+"npm run dev" OR "npm start"
 
